@@ -21,14 +21,6 @@ The prediction is driven by a trained ensemble model that factors in:
 
 ---
 
-## Screenshots
-
-| Match Setup | Prediction Result | Win Probability Chart |
-|---|---|---|
-| ![setup](screenshots/setup.png) | ![result](screenshots/result.png) | ![chart](screenshots/chart.png) |
-
----
-
 ## Tech stack
 
 | Layer | Tools |
